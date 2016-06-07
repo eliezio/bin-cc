@@ -24,7 +24,7 @@ Fique a vontade para mandar um PR para que esta tabela permaneça atualizada. Ao
 | Amex       | 340000 a 349999 e 370000 a 379999           | 15               | 4                    |
 | Discover   | 6011, 622, 64, 65                           | 16               | 4                    |
 | Aura       | 50                                          | 16               | 3                    |
-| jcb        | 35                                          | 16               | 3                    |
+| JCB        | 35                                          | 16               | 3                    |
 | Hipercard  | 384100, 384140, 384160, 606282, 637095, 637568, 637599, 637609, 637612             | 13,16,19         | 3                    |
 
 
